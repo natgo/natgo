@@ -20,6 +20,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_recent_load: 400
           plugin_languages_recent_days: 30
+          plugin_languages_recent_categories: data, markup, programming
           plugin_languages_sections: recently-used
           plugin_languages_details: lines
           plugin_languages_skipped: natgo/fabric-modpack
