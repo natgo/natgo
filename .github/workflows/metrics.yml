@@ -21,5 +21,6 @@ jobs:
           plugin_languages_analysis_timeout: 100
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: lines
-          plugin_languages_ignored: smali, html, javascript, css, groovy
+          plugin_languages_skipped: natgo/fabric-modpack
+          plugin_languages_ignored: smali, html, javascript, css
           plugin_isocalendar: yes
