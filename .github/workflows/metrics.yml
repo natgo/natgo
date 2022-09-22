@@ -17,5 +17,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 300
           plugin_languages_ignored: smali, html, javascript, css, groovy
           plugin_isocalendar: yes
