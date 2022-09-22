@@ -23,7 +23,7 @@ jobs:
           plugin_languages_sections: recently-used
           plugin_languages_details: lines
           plugin_languages_skipped: natgo/fabric-modpack
-          plugin_languages_aliases: TSX:typescript
+          plugin_languages_aliases: TSX:TypeScript
           plugin_languages_ignored: smali, html, javascript, css
           plugin_isocalendar: yes
           plugin_achievements: yes
