@@ -32,11 +32,11 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -220,20 +220,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.24mb of code in 3660 edited files across 86 commits over last 29 days</small>
+                <small>estimation from 2.61mb of code in 2314 edited files across 71 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="343.2783313109907" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="343.2783313109907" y="0" width="50.11706800198247" height="8" fill="#800000"/>
-                    <rect mask="url(#languages-bar)" x="393.3953993129732" y="0" width="43.76300992941739" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="437.15840924239063" y="0" width="13.590569617008187" height="8" fill="#237346"/>
-                    <rect mask="url(#languages-bar)" x="450.74897885939885" y="0" width="7.686582468853076" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="458.43556132825194" y="0" width="0.970895356587425" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.4064566848393" y="0" width="0.4029019192316237" height="8" fill="#f0c040"/>
-                    <rect mask="url(#languages-bar)" x="459.80935860407095" y="0" width="0.19064139592910978" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="295.8634425069879" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="295.8634425069879" y="0" width="80.5582072536725" height="8" fill="#800000"/>
+                    <rect mask="url(#languages-bar)" x="376.4216497606604" y="0" width="53.47485388952606" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="429.89650365018645" y="0" width="21.845490319966483" height="8" fill="#237346"/>
+                    <rect mask="url(#languages-bar)" x="451.7419939701529" y="0" width="6.571022395593679" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="458.3130163657466" y="0" width="0.7771497640942524" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.0901661298409" y="0" width="0.647624803411877" height="8" fill="#f0c040"/>
+                    <rect mask="url(#languages-bar)" x="459.73779093325277" y="0" width="0.26220906674724775" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -245,8 +245,8 @@
                                 YAML
                             </div>
                             <small>
-                                <div>3.90k lines</div>
-                                <div>74.63%</div>
+                                <div>1.94k lines</div>
+                                <div>64.32%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -257,8 +257,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>733 lines</div>
-                                <div>9.51%</div>
+                                <div>558 lines</div>
+                                <div>11.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -269,8 +269,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>128 lines</div>
-                                <div>1.67%</div>
+                                <div>83 lines</div>
+                                <div>1.43%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -282,7 +282,7 @@
                             </div>
                             <small>
                                 <div>9 lines</div>
-                                <div>0.09%</div>
+                                <div>0.14%</div>
                             </small>
                         </div>
                     </section>
@@ -296,7 +296,7 @@
                             </div>
                             <small>
                                 <div>536 lines</div>
-                                <div>10.9%</div>
+                                <div>17.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -308,7 +308,7 @@
                             </div>
                             <small>
                                 <div>16 lines</div>
-                                <div>2.95%</div>
+                                <div>4.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -319,8 +319,8 @@
                                 Dockerfile
                             </div>
                             <small>
-                                <div>4 lines</div>
-                                <div>0.21%</div>
+                                <div>2 lines</div>
+                                <div>0.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -331,8 +331,8 @@
                                 Go Module
                             </div>
                             <small>
-                                <div>4 lines</div>
-                                <div>0.04%</div>
+                                <div>2 lines</div>
+                                <div>0.06%</div>
                             </small>
                         </div>
                     </section>
@@ -1574,6 +1574,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-8.5, 11)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1629,7 +1634,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.0848733744010941 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.1697467488021882 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1722,7 +1727,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.42m out of 118m users</span>
+                                    <span class="gh">ranked 5.43m out of 125m users</span>
                                 </div>
                                 <div class="text">Published 11 public repositories</div>
                             </div>
@@ -1815,7 +1820,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.85m out of 118m users</span>
+                                    <span class="gh">ranked 2.85m out of 125m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -2004,7 +2009,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2023, 01:13:27  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Nov 2023, 01:12:16  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
