@@ -220,17 +220,17 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 128kb of code in 218 edited files across 37 commits over last 29 days</small>
+                <small>estimation from 119kb of code in 214 edited files across 35 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.1022860656196" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="426.1022860656196" y="0" width="30.848359510368343" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="456.9506455759879" y="0" width="1.7483650997708344" height="8" fill="#cb171e"/>
-                    <rect mask="url(#languages-bar)" x="458.69901067575876" y="0" width="1.1467218154379297" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.84573249119666" y="0" width="0.15426750880330892" height="8" fill="#e5d559"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.573653744091" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="422.573653744091" y="0" width="34.05956480418657" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="456.63321854827757" y="0" width="1.930363732859382" height="8" fill="#cb171e"/>
+                    <rect mask="url(#languages-bar)" x="458.563582281137" y="0" width="1.2660915071401242" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.82967378827715" y="0" width="0.17032621172288664" height="8" fill="#e5d559"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -242,8 +242,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>2.79k lines</div>
-                                <div>92.63%</div>
+                                <div>2.44k lines</div>
+                                <div>91.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -255,7 +255,7 @@
                             </div>
                             <small>
                                 <div>19 lines</div>
-                                <div>0.38%</div>
+                                <div>0.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -267,7 +267,7 @@
                             </div>
                             <small>
                                 <div>2 lines</div>
-                                <div>0.03%</div>
+                                <div>0.04%</div>
                             </small>
                         </div>
                     </section>
@@ -281,7 +281,7 @@
                             </div>
                             <small>
                                 <div>172 lines</div>
-                                <div>6.71%</div>
+                                <div>7.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -293,7 +293,7 @@
                             </div>
                             <small>
                                 <div>12 lines</div>
-                                <div>0.25%</div>
+                                <div>0.28%</div>
                             </small>
                         </div>
                     </section>
@@ -1342,6 +1342,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-1.7, 7)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1397,7 +1402,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.7638603696098469 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.848733744010941 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1772,7 +1777,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jan 2024, 01:21:08  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Jan 2024, 01:13:13  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
